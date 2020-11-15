@@ -121,6 +121,7 @@ import { Basesheng } from './js/api.js'
       this.daskList = await BaseOrde.getData()
       this.taskList = await Basesheng.getData()
       // console.log(this.taskList)
+      // jdsfdjlkfj
     }
   }
 </script>
