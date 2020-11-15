@@ -1,6 +1,6 @@
 {
   "name": "pkg_1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pkg_2": "^1.0.0"
+    "pkg_2": "^1.0.1"
   }
 }
